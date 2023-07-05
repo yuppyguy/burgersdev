@@ -75,4 +75,5 @@ export class AppComponent {
       item.price = +(item.basePrice * coefficient).toFixed(1)
     })
   }
+
 }
